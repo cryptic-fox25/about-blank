@@ -1,0 +1,13 @@
+{
+"companyName": "Wind Mile Studious",
+"productName": "Xtreme Good Guys vs Bad",
+"dataUrl": "Xtreme Good Guys vs Bad v1.data.unityweb",
+"wasmCodeUrl": "Xtreme Good Guys vs Bad v1.wasm.code.unityweb",
+"wasmFrameworkUrl": "Xtreme Good Guys vs Bad v1.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
